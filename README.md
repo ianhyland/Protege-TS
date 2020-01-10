@@ -10,15 +10,15 @@ Directory eg: contains the Java source files for the plugin.
 
 File Protege-TS Requirements Architecture and Test Results: contains:
 
-  Requirements description
+.  Requirements description
   
-  Software architecture description
+.  Software architecture description
   
-  Test cases and results
+.  Test cases and results
   
-  User guide
+.  User guide
   
-  Glossary of terms
+.  Glossary of terms
 
 Files sig_xxx: contains the keep and forget concept/role term signatures relating to the following OWL test ontology
 
